@@ -1,0 +1,7 @@
+Fireworks
+=========
+
+License
+-------
+
+MIT License.
